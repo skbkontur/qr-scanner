@@ -1,5 +1,5 @@
 # Fork Notes
-This fork in configured to provide es5 build (IE11 Compatible)
+This fork is configured to provide es5 build (IE11 Compatible)
 
 # QR Scanner
 
